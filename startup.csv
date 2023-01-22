@@ -1,0 +1,278 @@
+,Company,Cities,Year of starting,FOUNDERS,Industries,Funding amount,Funding rounds,No of employees,No of investors
+0,) Urban Company, Gurgaon, 2014,"Abhiraj Singh Bhal, Raghav Chandra, Varun Khaitan",Apps,"445,920,356",Number of funding rounds: 12,1001-5000,Number of investors: 16
+1,) Classplus, Noida, 2018,"Bhaswat Agarwal, Bikash Dash, Mukul Rustagi, Nikhil Goel, Vatsal Rustagi",B2B,"89,506,451",Number of funding rounds: 10,101-250,Number of investors: 20
+2,) Paytm, Noida, 2010,"Akshay Khanna, Vijay Shekhar Sharma",E-Commerce,"32,448,851",Number of funding rounds: 4,501-1000,Number of investors: 4
+3,) Apna, Mumbai, 2019,Nirmit Parikh,Employment,"93,450,000",Number of funding rounds: 4,101-250,Number of investors: 6
+4,) Razorpay, Bengaluru, 2014,"Harshil Mathur, Shashank Kumar",Financial,"366,600,000",Number of funding rounds: 7,1001-5000,Number of investors: 29
+5,) UpGrad, Mumbai, 2015,"Mayank Kumar, Phalgun Kompalli, Ravijot Chugh, Ronnie Screwvala",E-Learning,"176,283,446",Number of funding rounds: 4,1001-5000,Number of investors: 4
+6,) Delhivery, Gurgaon, 2011,"Bhavesh Manglani, Kapil Bharati, Mohit Tandon, Sahil Barua, Suraj Saharan",E-Commerce,"1,236,569",Number of funding rounds: 11,5001-10000,Number of investors: 13
+7,) 1mg, Gurgaon, 2015,"Anurag Mundhada, Gaurav Agarwal, Prashant Tandon, Sameer Maheshwari, Vikas Chauhan",Delivery,"204,600,209",Number of funding rounds: 16,11-50,Number of investors: 17
+8,) BigBasket, Bengaluru, 2011,"Abhinay Choudhari, Hari Menon, Vipul Parekh, VS Ramesh, VS Sudhakar",Delivery,"1,119,863",Number of funding rounds: 17,5001-10000,Number of investors: 17
+9,) GoMechanic, Gurgaon, 2016,"Amit Bhasin, Kushal Karwa, Nitin Rana, Puneet Gulati, Rishabh Karwa",Automotive,"59,849,371",Number of funding rounds: 8,251-500,Number of investors: 9
+10,) Unacademy, Bengaluru, 2015,"Gaurav Munjal, Hemesh Singh, Roman Saini, Sachin Gupta",E-Learning,"398,500,000",Number of funding rounds: 11,251-500,Number of investors: 36
+11,) Ola, Kormangala, 2010,"Ankit Bhati, Bhavish Aggarwal",Apps,"3,808,672",Number of funding rounds: 25,5001-10000,Number of investors: 45
+12,) Licious, Bengaluru, 2015,"Abhay Hanjura, Vivek Gupta",Delivery,"158,589,644",Number of funding rounds: 7,1001-5000,Number of investors: 20
+13,) CRED, Bengaluru, 2018,Kunal Shah,Credit,"471,205,550",Number of funding rounds: 6,251-500,Number of investors: 28
+14,) CityMall, Gurgaon, 2019,"Angad Kikla, Divij Goyal, Naisheel Verdhan",Consumer,"37,100,000",Number of funding rounds: 5,101-250,Number of investors: 14
+15,) Pine Labs, Noida, 1998,"Rajul Garg, Tarun Upaday",Financial,"423,238,799",Number of funding rounds: 8,1001-5000,Number of investors: 15
+16,) Dodla Dairy, Hyderabad, 1995,D. Sunil Reddy,Consumer,"71,276,176",Number of funding rounds: 3,501-1000,Number of investors: 13
+17,) Groww, Bengaluru, 2017,"Harsh Jain, ",Financial,"142,262,674",Number of funding rounds: 6,251-500,Number of investors: 16
+18,) Grofers, Gurgaon, 2013,"Albinder Dhindsa, Saurabh Kumar",Delivery,"662,398,135",Number of funding rounds: 13,1001-5000,Number of investors: 13
+19,) Jumbotail, Bengaluru, 2015,"Ashish Jhina, Karthik Venkateswaran",E-Commerce,"55,345,400",Number of funding rounds: 8,101-250,Number of investors: 20
+20,) slice, Bengaluru, 2016,"Deepak Malhotra, Rajan Bajaj",Banking,"53,665,909",Number of funding rounds: 8,251-500,Number of investors: 20
+21,) InMobi, Bengaluru, 2007,"Abhay Singhal, Amit Gupta, Mohit Saxena, Naveen Tewari, Piyush Shah",Advertising,"320,600,000",Number of funding rounds: 7,501-1000,Number of investors: 6
+22,) Dunzo, Bengaluru, 2015,"Ankur Aggarwal, Dalvir Suri, Kabeer Biswas, Mukund Jha",Delivery,"128,399,438",Number of funding rounds: 15,1001-5000,Number of investors: 24
+23,) BYJU, Bengaluru, 2011,"Byju Raveendran, Divya Gokulnath",E-Learning,"2,745,964",Number of funding rounds: 18,251-500,Number of investors: 38
+24,) Cashfree, Bengaluru, 2015,"Akash Sinha, Reeju Datta",Finance,"40,920,000",Number of funding rounds: 4,1001-5000,Number of investors: 6
+25,) MediBuddy, Bengaluru, 2000,Satish Kannan,Health,"67,132,379",Number of funding rounds: 5,11-50,Number of investors: 12
+26,) Progcap, Delhi, 2017,Pallavi Shrivastava,Enterprise,"32,324,325",Number of funding rounds: 4,51-100,Number of investors: 9
+27,) Capital Float, Bengaluru, 2013,"Gaurav Hinduja, Sashank Rishyasringa",B2B,"150,417,120",Number of funding rounds: 11,1001-5000,Number of investors: 12
+28,) CARS24, Gurgaon, 2015,"Gajendra Jangid, Mehul Agrawal, Ruchit Agarwal, Vikram Chopra",Artificial,"393,848,044",Number of funding rounds: 5,501-1000,Number of investors: 21
+29,) Bharat Biotech, Hyderabad, 1996,"Krishna Ella, Suchitra Ella",BiotechnologyNumber,"14,100,000",Number of funding rounds: 3,11-50,Number of investors: 3
+30,) Skillmatics, Mumbai, 2016,"Devanshi Kejriwal, Dhvanil Sheth",Children,"7,419,353",Number of funding rounds: 2,1001-5000,Number of investors: 2
+31,) Rapido, Bengaluru, 2015,"Aravind Sanka, Pavan Guntupalli, Rishikesh SR",Information,"121,996,807",Number of funding rounds: 9,101-250,Number of investors: 32
+32,) Reliance Jio, Mumbai, 2010,Mukesh Ambani,Apps,"24,767,620",Number of funding rounds: 16,11-50,Number of investors: 35
+33,) YourStory, Bengaluru, 2008,Shradha Sharma,Information,"8,469,522",Number of funding rounds: 3,5001-10000,Number of investors: 6
+34,) Kodo, Mumbai, 2019,"Deepti Sanghi, Gaurav Thapa",B2B,"8,736,466",Number of funding rounds: 2,11-50,Number of investors: 5
+35,) Practo, Bengaluru, 2008,"Abhinav Lal, Shashank ND",Health,"228,246,376",Number of funding rounds: 7,251-500,Number of investors: 14
+36,) NiYO Solutions, Bengaluru, 2015,Virender Bisht,Finance,"49,200,000",Number of funding rounds: 3,1001-5000,Number of investors: 5
+37,) Reliance Retail, Mumbai, 2006,Mukesh Ambani,Consumer,"6,419,310",Number of funding rounds: 6,101-250,Number of investors: 8
+38,) Locus.sh, Bengaluru, 2015,"Geet Garg, Nishith Rastogi",Big,"78,750,000",Number of funding rounds: 6,251-500,Number of investors: 25
+39,) KreditBee, Bengaluru, 2018,"Karthikeyan Krishnaswamy, Madhusudan Ekambaram, Wan Hong",Financial,"116,258,656",Number of funding rounds: 3,1001-5000,Number of investors: 7
+40,) boAt, Delhi, 2016,"Aman Gupta, Sameer Mehta",Consumer,"9,009,184",Number of funding rounds: 6,11-50,Number of investors: 5
+41,) Flipkart, Bengaluru, 2007,"Binny Bansal, Sachin Bansal",E-Commerce,"165,518,505",Number of funding rounds: 24,51-100,Number of investors: 24
+42,) MobiKwik, Gurgaon, 2009,"Bipin Singh, Chandan Joshi, Upasana Taku",Consumer,"64,495,265",Number of funding rounds: 15,51-100,Number of investors: 26
+43,) Cuemath, Bengaluru, 2013,Manan Khurma,E-Learning,"35,400,000",Number of funding rounds: 5,1001-5000,Number of investors: 8
+44,) Jai Kisan, Mumbai, 2017,"Adriel Maniego, Arjun Ahluwalia",Agriculture,"161,545,747",Number of funding rounds: 5,101-250,Number of investors: 18
+45,) Infra.Market, Thane, 2016,"Aaditya Sharda, Souvik Sengupta",Construction,"277,583,000",Number of funding rounds: 7,501-1000,Number of investors: 8
+46,) Xpressbees, Pune, 2015,"Amitava Saha, Supam Maheshwari",Delivery,"383,626,249",Number of funding rounds: 8,1001-5000,Number of investors: 11
+47,) Northern Arc, Chennai, 2008,Kshama Fernandes,Enterprise,"112,087,670",Number of funding rounds: 11,101-250,Number of investors: 12
+48,) Toppr, Mumbai, 2013,"Hemanth Goteti, Zishaan Hayath",E-Learning,"56,035,717",Number of funding rounds: 11,501-1000,Number of investors: 14
+49,) MyGlamm, Mumbai, 2015,"Darpan Sanghvi, Priyanka Gill",Beauty,"274,145,634",Number of funding rounds: 8,11-50,Number of investors: 14
+50,) ZoomCar, Bengaluru, 2012,"David Back, Greg Moran",Automotive,"1,776,260",Number of funding rounds: 20,1001-5000,Number of investors: 36
+51,) Snapdeal, Gurgaon, 2010,"Kunal Bahl, Rohit Bansal",Consumer,"11,294,388",Number of funding rounds: 13,11-50,Number of investors: 26
+52,) WhiteHat Education Technology, Andheri, 2018,Karan Bajaj,EducationNumber,"247,500,000",Number of funding rounds: 2,51-100,Number of investors: 3
+53,) CarDekho, Gurgaon, 2007,"Amit Jain, Anurag Jain",Automotive,"33,997,488",Number of funding rounds: 7,101-250,Number of investors: 14
+54,) Koo App, Bengaluru, 2020,"Aprameya Radhakrishna, Mayank Bidawatka",Apps,"32,070,087",Number of funding rounds: 3,1001-5000,Number of investors: 10
+55,) Porter, Bengaluru, 2014,"Pranav Goel, Uttam Digga, Vikas Choudhary",E-Commerce,"14,938,971",Number of funding rounds: 6,251-500,Number of investors: 6
+56,) Skyroot Aerospace, Hyderabad, 2018,"Naga Bharath Daka, Pawan Kumar Chandana",Aerospace,"27,307,486",Number of funding rounds: 3,1001-5000,Number of investors: 9
+57,) Holisol logistics, Delhi, 2009,"Manish Ahuja, Naveen Rawat, Rahul Dogar",Business,"12,294,124",Number of funding rounds: 5,501-1000,Number of investors: 4
+58,) Exotel, Bengaluru, 2011,Shivakumar Ganesan,Cloud,"307,351,129",Number of funding rounds: 4,501-1000,Number of investors: 8
+59,) CarTrade, Mumbai, 2009,Vinay Sanghi,Auctions,"37,400,000",Number of funding rounds: 8,101-250,Number of investors: 9
+60,) OPEN, Bengaluru, 2017,"Ajeesh Achuthan, Anish Achuthan, Deena Jacon, Mabel Chacko",Banking,"254,425,980",Number of funding rounds: 5,51-100,Number of investors: 13
+61,) InCred, Mumbai, 2016,Bhupinder Singh,Banking,"245,341,627",Number of funding rounds: 8,101-250,Number of investors: 17
+62,) Pepperfry, Mumbai, 2011,"Ambareesh Murty, Ashish Shah",E-Commerce,"119,680,000",Number of funding rounds: 9,11-50,Number of investors: 8
+63,) Shadowfax, Bengaluru, 2015,"Abhishek Bansal, Vaibhav Khandelwal",Delivery,"14,128,602",Number of funding rounds: 6,101-250,Number of investors: 13
+64,) The Man Company, Gurgaon, 2015,"Bhisham Bhateja, Hitesh Dhingra, Parvesh Kumar",Beauty,"14,543,144",Number of funding rounds: 6,101-250,Number of investors: 5
+65,) Agnikul, Chennai, 2017,"Moin SPM, Satyanarayanan Chakravarthy, Srinath Ravichandran",Aerospace,"19,879,176",Number of funding rounds: 4,1001-5000,Number of investors: 17
+66,) Shop101, Mumbai, 2015,"Abhinav Jain, Aditya Gupta, Kalpak Chhajed",Apps,"20,645,163",Number of funding rounds: 3,51-100,Number of investors: 6
+67,) Plum, Bengaluru, 2019,"Abhishek Poddar, Saurabh Arora",Employee,"9,653,620",Number of funding rounds: 5,501-1000,Number of investors: 23
+68,) Pee Safe, Gurgaon, 2013,"Dheeraj Jain, Srijana Bagaria, Vikas Bagaria",Consumer,"479,575,960",Number of funding rounds: 6,501-1000,Number of investors: 16
+69,) cure.fit, Bengaluru, 2016,"Ankit Nagori, Mukesh Bansal",Apps,"341,858,615",Number of funding rounds: 10,501-1000,Number of investors: 33
+70,) Nykaa, Mumbai, 2012,Falguni Nayar,Beauty,"214,452,563",Number of funding rounds: 13,101-250,Number of investors: 15
+71,) NoBroker, Bengaluru, 2014,"Akhil Gupta, Amit Agarwal",Commercial,"671,538,857",Number of funding rounds: 10,51-100,Number of investors: 13
+72,) PharmEasy, Mumbai, 2015,"Dharmil Sheth, Dhaval Shah, Mikhil ",Health,"193,125,171",Number of funding rounds: 9,101-250,Number of investors: 26
+73,) OfBusiness, Gurgaon, 2015,"Asish Mohapatra, Bhuvan Gupta, Chandranshu Sinha, Nitin Jain, Ruchi Kalra, Srinath Ramakkrushnan, Vasant Sridhar",Financial,"65,966,878",Number of funding rounds: 7,51-100,Number of investors: 13
+74,) LEAD School, Mumbai, 2012,"Smita Deorah, Sumeet Mehta",E-Learning,"29,000,000",Number of funding rounds: 4,1001-5000,Number of investors: 3
+75,) Upstox, Mumbai, 2010,"Raghu Kumar, Shrinivas Viswanath",Financial,"20,000,000",Number of funding rounds: 2,5001-10000,Number of investors: 3
+76,) Teachmint, Bengaluru, 2020,"Anshuman Kumar, Divyansh Bordia, Mihir Gupta, Payoj Jain",E-Learning,"68,373,925",Number of funding rounds: 3,251-500,Number of investors: 5
+77,) ZestMoney, Bengaluru, 2015,"Ashish Anantharaman, Lizzie Chapman, Priya Sharma",Big,"13,000,000",Number of funding rounds: 9,11-50,Number of investors: 15
+78,) Convosight, Delhi, 2019,"Kartik Bansal, Tamanna Dhamija, Tarun Dhamija",SaaS,"101,691,508",Number of funding rounds: 2,251-500,Number of investors: 5
+79,) Livspace, Bengaluru, 2014,"Anuj Srivastava, Ramakant Sharma, Shagufta Anurag",E-Commerce,"342,349,901",Number of funding rounds: 8,1-10,Number of investors: 17
+80,) Rebel Foods, Pune, 2011,"Jaydeep Barman, Kallol Banerjee",E-Commerce,"126,900,000",Number of funding rounds: 20,11-50,Number of investors: 19
+81,) Spinny, Gurgaon, 2015,"Mohit Gupta, Niraj Singh, Ramanshu Mahaur",E-Commerce,"4,200,835",Number of funding rounds: 5,501-1000,Number of investors: 13
+82,) Synapsica, Delhi, 2018,"Cherian Dr, Gandharv Goyal, Kuldeep Singh Chauhan, Meenakshi Singh",Artificial,"49,286,284",Number of funding rounds: 4,501-1000,Number of investors: 5
+83,) DeHaat, City, 2012,"Amrendra Singh, Shashank Kumar",Agriculture,"7,483,079",Number of funding rounds: 5,101-250,Number of investors: 8
+84,) Masai School, Bengaluru, 2019,Prateek Shukla,E-Learning,"9,357,626",Number of funding rounds: 3,11-50,Number of investors: 4
+85,) Wysa, Bengaluru, 2015,"Jo Aggarwal, Ramakant Vempati",Artificial,"41,884,162",Number of funding rounds: 4,251-500,Number of investors: 9
+86,) Magicpin, Gurgaon, 2015,"Anshoo Sharma, Brij Bhushan",E-Commerce,"102,210,000",Number of funding rounds: 7,11-50,Number of investors: 12
+87,) Ather Energy, Bengaluru, 2013,"Arun Vinayak, Swapnil Jain, Tarun Mehta",Automotive,"16,950,000",Number of funding rounds: 5,11-50,Number of investors: 5
+88,) Trell, Bengaluru, 2016,"Arun Lodhi, Bimal Kartheek Rebba, Prashant Sachan, Pulkit Agrawal",Lifestyle,"24,000,000",Number of funding rounds: 7,1-10,Number of investors: 31
+89,) Convin, Bengaluru, 2019,"Ashish Santhalia, Atul Shree, Bharat Patidar, Durgesh Choudhary",Analytics,"23,313,960",Number of funding rounds: 1,501-1000,Number of investors: 7
+90,) Yellow Messenger, Bengaluru, 2016,"Anik Das, Jaya Kishore Reddy Gollareddy, Raghu Kumar, Rashid Khan",Artificial,"38,519,469",Number of funding rounds: 3,101-250,Number of investors: 3
+91,) Mamaearth, Gurgaon, 2016,Varun Alagh,E-Commerce,"3,000,000",Number of funding rounds: 5,1001-5000,Number of investors: 8
+92,) Milkbasket, Haryana, 2014,"Anant Goel, Anurag Jain, Ashish Goel, Yatish Talavdia",Delivery,"114,896,667",Number of funding rounds: 11,101-250,Number of investors: 18
+93,) Bimaplan, Bengaluru, 2020,"Ashish Goel, Rajiv Srivatsa",Financial,"17,000,000",Number of funding rounds: 2,101-250,Number of investors: 27
+94,) Urban Ladder, Bengaluru, 2012,"Adarsh Kumar, Arya Gautam, Rupesh Mishra",E-Commerce,"28,188,461",Number of funding rounds: 9,1001-5000,Number of investors: 10
+95,) PagarBook, Bengaluru, 2019,Vijay Shekhar Sharma,Apps,"84,200,000",Number of funding rounds: 2,1001-5000,Number of investors: 4
+96,) Paytm Payments Bank, Delhi, 2017,"Aditya Prasad, Gaurav Kumar, Harsh Pokharna",Banking,"93,649,358",Number of funding rounds: 2,251-500,Number of investors: 2
+97,) OkCredit, Faridabad, 2017,"Manish Taneja, Rahul Dash",Finance,"15,000,000",Number of funding rounds: 3,51-100,Number of investors: 6
+98,) Purplle, Mumbai, 2011,Raj Khosla,Beauty,"296,995,198",Number of funding rounds: 10,1001-5000,Number of investors: 15
+99,) MyMoneyMantra, Delhi, 1989,"Chanakya Hridaya, Rajesh Yabaji, Ramasubramaniam B",Consumer,"152,000,000",Number of funding rounds: 1,11-50,Number of investors: 2
+100,) Blackbuck, Bengaluru, 2015,"Ankit Garg, Chaitanya Ramalingegowda",Information,"147,830,000",Number of funding rounds: 8,101-250,Number of investors: 13
+101,) Wakefit, Bengaluru, 2016,Shan Kadavil,E-Commerce,"49,939,813",Number of funding rounds: 2,101-250,Number of investors: 3
+102,) Freshtohome, Bengaluru, 2015,"Abhimanyu Dhamija, Abhishek Anand, Advitiya Sharma, Amrit Raj, Neeraj Bhunwal, Rahul Yadav, Ravish Naresh, Rishabh Agrawal, Sanat Ghosh, Saurabh Goyal, Snehil Buxy, Vaibhav Tolia",E-Commerce,"22,000,000",Number of funding rounds: 9,1001-5000,Number of investors: 23
+103,) Housing.com, Gurgaon, 2012,"Aditya Shankar, Tanushree Nagori",Internet,"8,444,527",Number of funding rounds: 8,51-100,Number of investors: 16
+104,) Doubtnut, Gurgaon, 2016,"Anugrah Shrivastava, Rohan Gupta, Vasanth Kamath",E-Learning,"2,100,568",Number of funding rounds: 5,1-10,Number of investors: 10
+105,) smallcase, Bengaluru, 2015,"Aditya Sengupta, Akash Gehani, Harshad Sharma, Sampad Swain",Financial,"35,500,000",Number of funding rounds: 3,101-250,Number of investors: 11
+106,) Instamojo, Bengaluru, 2012,"Deepinder Goyal, Gaurav Gupta, Pankaj Chaddah",Business,"45,500,000",Number of funding rounds: 7,1001-5000,Number of investors: 14
+107,) Zomato, Gurgaon, 2008,"Kaushik Mukherjee, Vineeta Singh",Food,"14,340,302",Number of funding rounds: 21,501-1000,Number of investors: 25
+108,) SUGAR Cosmetics, Mumbai, 2012,"Chanchal Kurele, Paavan Nanda, Saumya Singh Rathore",Beauty,"23,450,864",Number of funding rounds: 3,1001-5000,Number of investors: 6
+109,) WinZO, Delhi, 2018,"Anand Dalmia, Ramganesh ",Digital,"244,460,150",Number of funding rounds: 5,11-50,Number of investors: 12
+110,) Chingari, Bengaluru, 2018,"Kamesh Goyal, Philip Varghese, Sriram Shankar, Vijay Kumar",Social,"261,193,454",Number of funding rounds: 5,51-100,Number of investors: 18
+111,) Fisdom, Bengaluru, 2015,"Sanjay Sharma, Vikram Jetley",Advice,"268,701,257",Number of funding rounds: 6,101-250,Number of investors: 7
+112,) Digit Insurance, Bengaluru, 2016,"Deepak Garg, Gazal Kalra",Finance,"4,506,066",Number of funding rounds: 5,11-50,Number of investors: 4
+113,) Aye Finance, Gurgaon, 2014,"Anirudh Singla, Rishabh Shekhar",Finance,"10,392,793",Number of funding rounds: 23,251-500,Number of investors: 23
+114,) Rivigo, Gurgaon, 2014,"Chirag Jain, Rasik Pansare",Automotive,"18,658,274",Number of funding rounds: 11,1001-5000,Number of investors: 6
+115,) Pepper Content, Mumbai, 2017,"Shivani Poddar, Tanvi Malik",Content,"3,280,204",Number of funding rounds: 2,501-1000,Number of investors: 19
+116,) Get My Parking, Delhi, 2015,"Alekh Sanghera, Lokesh Singh, Mehtab Singh Hans",Automotive,"48,785,217",Number of funding rounds: 5,101-250,Number of investors: 8
+117,) FabAlley, Noida, 2012,"Ajit Narayanan, Arjun Choudhary, Ashutosh Lawania, Prasad Kompalli",E-Commerce,"56,506,662",Number of funding rounds: 8,251-500,Number of investors: 18
+118,) FarMart, Gurgaon, 2015,"Ananth Narayanan, Prashanth Singh, Tushar Kumar",Agriculture,"257,504,119",Number of funding rounds: 4,251-500,Number of investors: 6
+119,) mfine, Bengaluru, 2017,"Harshvardhan Lunia, Mukul Sachan",Apps,"6,000,000",Number of funding rounds: 6,51-100,Number of investors: 11
+120,) Medlife, Bengaluru, 2014,"Mohit Goel, Rajat Kumar, Sachin Arora, Vipul Sharma",Information,"77,000,000",Number of funding rounds: 4,251-500,Number of investors: 3
+121,) Lendingkart, Ahmedabad, 2014,"Anand Prabhudesai, Dhirendra Mahyavanshi, Kunal Shah",Finance,"485,392,829",Number of funding rounds: 12,101-250,Number of investors: 15
+122,) Chqbook, Delhi, 2017,"K. Satyanarayana, Manju Dhawan, Sanjeev Saxena, T. A. Krishnan",Finance,"290,345,855",Number of funding rounds: 3,51-100,Number of investors: 8
+123,) Turtlemint, Mumbai, 2015,"Ashneer Grover, Bhavik Koladiya, Shashvat Nakrani",Financial,"23,000,000",Number of funding rounds: 5,1001-5000,Number of investors: 10
+124,) Ecom Express, Delhi, 2012,"Venkat Malladi, Yamini Bhat",Delivery,"53,350,000",Number of funding rounds: 6,11-50,Number of investors: 4
+125,) BharatPe, Delhi, 2018,"Gautam Kapoor, Saahil Goel, Vishesh Khurana",Apps,"35,000,000",Number of funding rounds: 7,251-500,Number of investors: 17
+126,) Vymo, Bengaluru, 2013,Nilesh Patel,Analytics,"42,850,000",Number of funding rounds: 5,501-1000,Number of investors: 5
+127,) Shiprocket, Delhi, 2017,"Kush Taneja, Sambhav Jain",E-Commerce,"424,214,622",Number of funding rounds: 6,11-50,Number of investors: 12
+128,) LeadSquared, Bengaluru, 2011,"Jiby Thomas, Pranay Chulet",CRM,"15,504,114",Number of funding rounds: 2,51-100,Number of investors: 3
+129,) FamPay, Bengaluru, 2019,"Ankit Gupta, Deepak Joy Cheenath",Financial,"172,175,325",Number of funding rounds: 3,11-50,Number of investors: 17
+130,) Quikr, Bengaluru, 2008,"Anindya Dutta, Sandeep Dalmia",Classifieds,"81,000,000",Number of funding rounds: 12,11-50,Number of investors: 15
+131,) Quizizz, Bengaluru, 2015,"Ankit Prasad, Mohd Wassem, Rahul Prasad",E-Learning,"13,275,213",Number of funding rounds: 3,51-100,Number of investors: 6
+132,) Stanza Living, Delhi, 2017,"Nakul Kukar, Paras Kaushal",Home,"4,074,000",Number of funding rounds: 6,501-1000,Number of investors: 12
+133,) Pristyn Care, Gurgaon, 2018,"Kaustub Pandey, Subhash Choudhary, Suumit Shah",Health,"6,000,000",Number of funding rounds: 4,101-250,Number of investors: 5
+134,) Polygon (Previously Matic Network), Mumbai, 2017,"Dinesh Advani, Vivek Goyal",BlockchainNumber,"28,438,340",Number of funding rounds: 3,1001-5000,Number of investors: 4
+135,) Bobble AI, Haryana, 2015,"Shailendra Nath Rai, Sunil Bhalla, Vishal Sehgal",Artificial,"90,000,000",Number of funding rounds: 5,251-500,Number of investors: 3
+136,) Cell Propulsion, Bengaluru, 2016,"Aniket Deshpande, Gaurav Kumar, ",Automotive,"107,701,572",Number of funding rounds: 6,1-10,Number of investors: 6
+137,) Dukaan, Bengaluru, 2019,"Enbasekar Dinadayalane, Satish Kannan",DIYNumber,"27,575,748",Number of funding rounds: 1,501-1000,Number of investors: 9
+138,) Play Shifu, Bengaluru, 2016,Ajith Karimpana,Augmented,"68,955,715",Number of funding rounds: 5,11-50,Number of investors: 10
+139,) Lava International Limited, Noida, 2009,"Nandan Reddy, Rahul Jaimini, Sriharsha Majety",Consumer,"2,428,380",Number of funding rounds: 1,101-250,Number of investors: 1
+140,) Vivriti Capital, Chennai, 2017,"Deepu Panicker, Raunak Munot, Rohit Jaiswal, Shantanu Deshpande",Analytics,"17,696,569",Number of funding rounds: 4,501-1000,Number of investors: 2
+141,) DocsApp, Bengaluru, 2015,"Kadam Jeet Jain, Rahul Chaudhary, Sidharth Gupta",Health,"69,174,397",Number of funding rounds: 5,101-250,Number of investors: 11
+142,) Furlenco, Bengaluru, 2012,"Pawan Gupta, Rahul Namdev",Consumer,"4,600,000",Number of funding rounds: 16,1001-5000,Number of investors: 21
+143,) Swiggy, Bengaluru, 2014,"Anjali Naik, Anurag Gupta, Paramdeep Singh, Rishi Malhotra, Vinodh Bhat",Delivery,"131,591,747",Number of funding rounds: 14,51-100,Number of investors: 23
+144,) Bombay Shaving Company, Delhi, 2015,Ankur Warikoo,Consumer,"37,237,275",Number of funding rounds: 6,5001-10000,Number of investors: 16
+145,) Treebo Hotels, Bengaluru, 2015,"Alok Mittal, Siddharth Mahanot, Sundeep Sahi",Hospitality,"35,826,551",Number of funding rounds: 9,101-250,Number of investors: 16
+146,) Betterhalf, Bengaluru, 2016,"Ganesh Krishnan, Karan Aneja, Manjusha Anumolu, Meena Ganesh, Zachary Jones",Artificial,"76,066,894",Number of funding rounds: 3,11-50,Number of investors: 10
+147,) JioSaavn, Mumbai, 2007,Tushar Aggarwal,Internet,"75,000,000",Number of funding rounds: 7,101-250,Number of investors: 13
+148,) nearbuy, Delhi, 2011,"Kanika Gupta, Tanuj Shori",Apps,"73,000,000",Number of funding rounds: 3,101-250,Number of investors: 2
+149,) Indifi Technologies, Gurgaon, 2015,"Mathew Cherian, Sachin Shenoy, Tushar Vashisht",Credit,"25,000,000",Number of funding rounds: 5,251-500,Number of investors: 15
+150,) Portea Medical, Bengaluru, 2013,Deepak Bhagchandani,Health,"2,225,000",Number of funding rounds: 6,5001-10000,Number of investors: 10
+151,) Stashfin, Delhi, 2016,"Abhinav Pathak, Saketh BSV, Yogesh Ghaturle",Apps,"6,361,203",Number of funding rounds: 3,101-250,Number of investors: 14
+152,) Square Yards, Gurgaon, 2014,Sumant Sinha,Market,"2,776,179",Number of funding rounds: 6,1-10,Number of investors: 11
+153,) HealthifyMe, Bengaluru, 2012,Kavin Bharti Mittal,Apps,"261,000,000",Number of funding rounds: 7,501-1000,Number of investors: 17
+154,) QuickSell, Mumbai, 2017,Manish Patel,SoftwareNumber,"97,467,607",Number of funding rounds: 2,51-100,Number of investors: 6
+155,) Perpule, Bengaluru, 2016,"Archit Jayasal, Kunaal Dudeja, Nalin Saluja, Paarul Dudeja",Apps,"3,450,000",Number of funding rounds: 3,1001-5000,Number of investors: 5
+156,) ReNew Power, Gurgaon, 2011,Rahul Mathur,Clean,"99,000,000",Number of funding rounds: 12,51-100,Number of investors: 9
+157,) Hike, Delhi, 2012,Pradeep Dadha,Apps,"4,923,799",Number of funding rounds: 5,501-1000,Number of investors: 10
+158,) Mswipe Technologies, Mumbai, 2011,Yogesh Kabra,Financial,"4,432,652",Number of funding rounds: 9,101-250,Number of investors: 14
+159,) Virohan, Gurgaon, 2018,Vijay Shekhar Sharma,Continuing,"15,000,000",Number of funding rounds: 6,251-500,Number of investors: 9
+160,) BimaPe, Mumbai, 2020,"Lalit Mangal, Manoj Singh, Vinay Kumar Jasti",Consumer,"224,500,000",Number of funding rounds: 2,101-250,Number of investors: 5
+161,) Netmeds, Chennai, 2010,"Ashish Hemrajani, Parikshit Dar, Rajesh Balpande",E-Commerce,"196,656,376",Number of funding rounds: 3,251-500,Number of investors: 4
+162,) XYXX Apparels, , 2017,Aditi Avasthi,Gaming,"5,463,025",Number of funding rounds: 3,1001-5000,Number of investors: 3
+163,) One97, Noida, 2000,"Annanya Sarthak, Gurpreet Singh, Praveen Sah",Finance,"35,500,000",Number of funding rounds: 13,51-100,Number of investors: 15
+164,) Airmeet, Bengaluru, 2019,"Aloke Bajpai, Dharmendra Yashovardhan, Rajnish Kumar",Events,"122,313,023",Number of funding rounds: 4,101-250,Number of investors: 20
+165,) BookMyShow, Mumbai, 1999,"Amit Singh, Deepanshu Malviya",Digital,"46,221,395",Number of funding rounds: 6,51-100,Number of investors: 6
+166,) Embibe, Mumbai, 2012,"Amuleek Singh Bijral, Gaganjot Kaur",Content,"41,443,027",Number of funding rounds: 4,501-1000,Number of investors: 4
+167,) Awign Enterprises, Bengaluru, 2016,"Ankush Aggarwal, Tushar Mehndiratta",Business,"45,000,000",Number of funding rounds: 5,251-500,Number of investors: 11
+168,) ixigo, Gurgaon, 2006,Bhavin Turakhia,Mobile,"31,300,000",Number of funding rounds: 5,11-50,Number of investors: 6
+169,) Shuttl, Gurgaon, 2015,"Kunal Sinha, Nilesh Padariya, Nitesh Pant, Shekhar Sahu, Sonal Verma",Apps,"63,359,735",Number of funding rounds: 13,11-50,Number of investors: 22
+170,) Chai Point, Bengaluru, 2010,"Rama Harinath, Srikanth ",Food,"37,996,690",Number of funding rounds: 9,501-1000,Number of investors: 6
+171,) Avail Finance, Bengaluru, 2017,"Binod Kumar Homagai, Sagar Daryani, Shah Miftaur Rahman",Finance,"24,628,092",Number of funding rounds: 5,251-500,Number of investors: 8
+172,) Flock, Mumbai, 2014,"Ankit Parasher, Pushkar Singh, Sudarshan Ravi",Apps,"51,443,326",Number of funding rounds: 3,501-1000,Number of investors: 2
+173,) GlowRoad, Bengaluru, 2017,"Hitesh Mohkar, Tushar Dhakate",E-Commerce,"742,000,000",Number of funding rounds: 4,11-50,Number of investors: 7
+174,) HomeLane, Bengaluru, 2014,"Achal Mittal, Ajay Nain, Geetansh Bamania",Home,"69,002,120",Number of funding rounds: 9,501-1000,Number of investors: 12
+175,) Wow! Momo, Kolkata, 2008,"Kapil Karekar, Richa Kar",Food,"434,009,213",Number of funding rounds: 5,1001-5000,Number of investors: 6
+176,) LetsTransport, Bengaluru, 2015,"Umang Bedi, Virendra Gupta",Logistics,"5,500,000",Number of funding rounds: 8,251-500,Number of investors: 12
+177,) Digital Class E-Learning Marketplace, Ahmedabad, 2017,"Neeraj Khandelwal, Sumit Gupta",B2B,"44,247,827",Number of funding rounds: 1,1001-5000,Number of investors: 19
+178,) RentoMojo, Bengaluru, 2014,"Chakradhar Gade, Nitin Kaushal",E-Commerce,"115,000,000",Number of funding rounds: 14,101-250,Number of investors: 2
+179,) SBI Life, Mumbai, 2001,"Adhil Shetty, Arjun Shetty, Rati Shetty",Financial,"21,556,985",Number of funding rounds: 1,101-250,Number of investors: 11
+180,) Zivame.com, Bengaluru, 2011,"Anshul Rai, Varun Rathi",E-Commerce,"456,059,601",Number of funding rounds: 8,51-100,Number of investors: 22
+181,) VerSe Innovation, Bengaluru, 2007,V K Ranganathan,Content,"17,612,830",Number of funding rounds: 20,1001-5000,Number of investors: 10
+182,) CoinDCX, Mumbai, 2017,"Abhishek Humbad, Richa Bajpai",Blockchain,"26,700,000",Number of funding rounds: 3,51-100,Number of investors: 6
+183,) Country Delight, , 2015,"Chaitra Chidanand, Nityanand Sharma",Agriculture,"257,002,291",Number of funding rounds: 9,251-500,Number of investors: 16
+184,) BankBazaar.com, Chennai, 2008,"Lalit Aggarwal, Raghav Arora",E-Commerce,"7,000,000",Number of funding rounds: 6,1001-5000,Number of investors: 8
+185,) Happay, Whitefield, 2012,"Radhika Aggarwal, Sandeep Aggarwal, Sanjay Sethi",Financial,"133,000,000",Number of funding rounds: 7,51-100,Number of investors: 8
+186,) Five Star Business Finance, Kilpauk, 1984,"Saurabh Pandey, Varun Vohra",Banking,"32,668,662",Number of funding rounds: 7,101-250,Number of investors: 6
+187,) Goodera, Bengaluru, 2014,Sandeep Aggarwal,Computer,"14,550,000",Number of funding rounds: 3,11-50,Number of investors: 5
+188,) Simpl, Bengaluru, 2015,"Amit Raj, Anshul Gupta",E-Commerce,"32,599,576",Number of funding rounds: 3,101-250,Number of investors: 6
+189,) F5 Refreshement, Delhi, 2018,"Rohan Bhargava, Swati Bhargava",Food,"26,000,000",Number of funding rounds: 2,101-250,Number of investors: 12
+190,) ShopClues, Gurgaon, 2011,Krishna Kumar,E-Commerce,"56,417,592",Number of funding rounds: 11,51-100,Number of investors: 1
+191,) Aknamed, Bengaluru, 2018,Jitendra Gupta,Health,"7,420,000",Number of funding rounds: 1,51-100,Number of investors: 10
+192,) Droom, Haryana, 2014,"Amit Sharma, Apoorva Jois",Automotive,"7,000,000",Number of funding rounds: 7,1-10,Number of investors: 10
+193,) Box8, Mumbai, 2012,"Shridhar Gupta, Vidit Jain",Delivery,"17,062,939",Number of funding rounds: 9,101-250,Number of investors: 3
+194,) Cashkaro, Gurgaon, 2013,"Gaurav Baid, Mayank Tiwari, Prashanth Aluru, Sravanth Aluru",Coupons,"56,891,230",Number of funding rounds: 4,101-250,Number of investors: 12
+195,) CropIn, Bengaluru, 2010,"Anmol Jaggi, Punit Goyal",Analytics,"7,697,983",Number of funding rounds: 10,251-500,Number of investors: 7
+196,) Jupiter, Mumbai, 2019,Kabir Siddiq,Banking,"49,247,312",Number of funding rounds: 2,251-500,Number of investors: 5
+197,) ShopX, Bengaluru, 2015,"Abhay Girnara, Amit Jain, Amrita Sirohia, Ashish Kashyap, Monika Dua, Pratiksha Dake",B2B,"119,000,000",Number of funding rounds: 4,51-100,Number of investors: 3
+198,) LocoNav, Azadpur, 2015,"Dhruv Agrawal, Himanshu Gupta, Soham Chokshi",Computer,"48,598,636",Number of funding rounds: 3,11-50,Number of investors: 1
+199,) Avataar.Me, Bengaluru, 2016,"Karan Mehta, Krishnan Vishwanathan",3D,"21,262,496",Number of funding rounds: 1,501-1000,Number of investors: 20
+200,) BluSmart Mobility, Ahmedabad, 2019,"Mahesh Pratapneni, Sam Santhosh",Electric,"10,020,000",Number of funding rounds: 5,251-500,Number of investors: 3
+201,) SleepyCat, Mumbai, 2017,"Adarsh Manpuria, Vaibhav Aggarwal",E-CommerceNumber,"177,639,874",Number of funding rounds: 1,251-500,Number of investors: 4
+202,) INDwealth, Gurgaon, 2018,"Pramod Nair, Raghuram Talluri, Rakib Ahmed, Tanmoy Karmakar",Artificial,"61,000,000",Number of funding rounds: 3,101-250,Number of investors: 8
+203,) Shipsy, Gurgaon, 2015,"Sanjeev Kumar, Shobhit Bhatnagar, Vibhu Bhushan",Big,"99,640,920",Number of funding rounds: 4,51-100,Number of investors: 8
+204,) Kissht, Mumbai, 2015,"Kunal Shah, Sandeep Tandon",Credit,"51,250,370",Number of funding rounds: 6,501-1000,Number of investors: 12
+205,) MedGenome, Bengaluru, 2013,Sameer Maheshwari,Biotechnology,"33,267,529",Number of funding rounds: 6,101-250,Number of investors: 9
+206,) Fabhotels, Gurgaon, 2015,"Cheolwon Lee, Jay Yi, Martin Lee",E-Commerce,"9,702,517",Number of funding rounds: 7,101-250,Number of investors: 9
+207,) Loadshare, Bengaluru, 2017,"Devendra Rane, Varun Dua",Delivery,"160,465,015",Number of funding rounds: 7,1001-5000,Number of investors: 2
+208,) Gradeup, Noida, 2015,Akshay Mehrotra,Education,"51,944,731",Number of funding rounds: 5,251-500,Number of investors: 7
+209,) FreeCharge, Mumbai, 2010,"Mihir Mohan Mishra, Nirant Ramakuru, Ruchi Deepak",Coupons,"29,833,055",Number of funding rounds: 7,1-10,Number of investors: 8
+210,) Healthkart, Gurgaon, 2011,"Anshul Mimani, Manish Somani",Dietary,"1,284,058",Number of funding rounds: 4,251-500,Number of investors: 24
+211,) Saveo, Bengaluru, 2019,Ankur Jain,Fitness,"139,178,803",Number of funding rounds: 2,51-100,Number of investors: 17
+212,) True Balance, Gurgaon, 2014,"Kunal Malik, Maneesh Dhooper",Apps,"21,500,000",Number of funding rounds: 7,11-50,Number of investors: 13
+213,) Coverfox Insurance, Mumbai, 2013,"Ankush Mehra, Manish Saksena, Prashant Malik, Suchi Mukherjee",Auto,"13,275,120",Number of funding rounds: 6,11-50,Number of investors: 6
+214,) EarlySalary, Pune, 2015,"Prashant Gupta, Rahul Ranjan, Ranjeet Pratap Singh, Sahradayi Modi, Sankaranarayanan Devarajan",Financial,"14,800,000",Number of funding rounds: 7,11-50,Number of investors: 12
+215,) Pitstop, Bengaluru, 2015,Swapnil Shah,Automotive,"173,773,498",Number of funding rounds: 5,101-250,Number of investors: 1
+216,) Wheels Eye, Gurgaon, 2017,"Akshay Pruthi, Anurag Dalia, Himanshu Periwal, Vipul Agrawal",Information,"14,500,000",Number of funding rounds: 1,251-500,Number of investors: 13
+217,) Bira 91, Delhi, 2015,Bhaskar Rao,Brewing,"10,500,000",Number of funding rounds: 14,251-500,Number of investors: 4
+218,) PlanetSpark, Gurgaon, 2016,"Abhimanyu Saxena, Anshuman Singh",E-Learning,"19,900,000",Number of funding rounds: 2,51-100,Number of investors: 6
+219,) LimeRoad, Gurgaon, 2012,"Akash Deep, Mohit Sharma",E-Commerce,"28,000,000",Number of funding rounds: 5,1001-5000,Number of investors: 12
+220,) Pratilipi, Bengaluru, 2015,"Khushnud Khan, Rishi Raj Rathore",Audio,"23,300,000",Number of funding rounds: 5,1001-5000,Number of investors: 3
+221,) Freight Tiger, Mumbai, 2014,Kartar Singh,Automotive,"10,180,783",Number of funding rounds: 1,101-250,Number of investors: 4
+222,) unlu, Gurgaon, 2020,Times ,Celebrity,"85,000,000",Number of funding rounds: 2,501-1000,Number of investors: 3
+223,) KIMS Hospitals, Hyderabad, 2000,"Pavan Sondur, Prashant Kumar",Health,"21,540,065",Number of funding rounds: 3,101-250,Number of investors: 4
+224,) InterviewBit, Bengaluru, 2015,Sahil Sheth,E-Learning,"44,580,231",Number of funding rounds: 2,501-1000,Number of investors: 10
+225,) Oye Rickshaw, Gurgaon, 2017,"Amit Gupta, Hemant Gupta, Naveen Dachuri, RK Misra",Electric,"3,439,351",Number of funding rounds: 3,101-250,Number of investors: 11
+226,) Arzooo.com, Bengaluru, 2018,"Amit Sethi, Mandeep Manocha, Nakul Kumar",Consumer,"22,500,000",Number of funding rounds: 6,101-250,Number of investors: 9
+227,) Amber Group, Gurgaon, 1990,"Anupam Agarwal, Karan Jain",Consumer,"317,695,079",Number of funding rounds: 1,501-1000,Number of investors: 6
+228,) Star Health and Allied Insurance, Nungambakkam, 2006,"Anirban Majumdar, Devarshi Shah, Saurabh Gupta",Health,"5,100,000",Number of funding rounds: 3,101-250,Number of investors: 1
+229,) Magicbricks, Noida, 2006,"Dhruv Agarwala, Kartik Varma, Prashan Agarwal",Commercial,"824,830,000",Number of funding rounds: 1,251-500,Number of investors: 13
+230,) Unbxd, Bengaluru, 2011,"Chintan Raikar, Prashant ",Artificial,"13,670,000",Number of funding rounds: 7,1-10,Number of investors: 8
+231,) LIDO, Mumbai, 2019,"Sandipan Mitra, Uttam Kumar",E-Learning,"17,000,000",Number of funding rounds: 2,11-50,Number of investors: 7
+232,) Yulu, Bengaluru, 2017,Ritesh Agarwal,Electric,"12,550,000",Number of funding rounds: 4,51-100,Number of investors: 9
+233,) Cashify, Gurgaon, 2015,"Arnav Kumar, Vaibhav Singh",Consumer,"241,361,584",Number of funding rounds: 5,501-1000,Number of investors: 10
+234,) Revv, Gurgaon, 2015,Madhukar Gangadi,Apps,"12,600,000",Number of funding rounds: 3,51-100,Number of investors: 4
+235,) UrbanPiper, Bengaluru, 2015,"Manish Tewari, Rohan Kaushal",Food,"41,255,467",Number of funding rounds: 3,51-100,Number of investors: 3
+236,) PropTiger, Gurgaon, 2011,"Akshay Deshraj, Manoj Sarda, Sourabh Gupta",Intellectual,"6,390,562",Number of funding rounds: 2,101-250,Number of investors: 9
+237,) Miko, Mumbai, 2015,"Ankush Sachdeva, Bhanu Pratap Singh, Farid Ahsan",Artificial,"6,100,000",Number of funding rounds: 5,251-500,Number of investors: 10
+238,) HungerBox, Bengaluru, 2015,"Mukesh Bansal, Prasanth Reddy, Sumit Sinha",B2B,"26,963,740",Number of funding rounds: 8,11-50,Number of investors: 23
+239,) OYO, Gurgaon, 2012,"Aarti Gill, Mihir Gadani",Hospitality,"211,350,000",Number of funding rounds: 17,101-250,Number of investors: 5
+240,) Leap Finance, Bengaluru, 2019,"Abhishek Sagar, Ashutosh Kumar, Manoj Munna, Narendra Agrawal, Yadvendar Champawat",Credit,"2,001,796",Number of funding rounds: 2,101-250,Number of investors: 6
+241,) MedPlus, Hyderabad, 2006,Ajay Kaushal,E-Commerce,"27,420,684",Number of funding rounds: 7,51-100,Number of investors: 8
+242,) PiggyRide, Bengaluru, 2019,"Ganesh Balakrishnan, Utkarsh Biradar",Children,"17,271,725",Number of funding rounds: 2,101-250,Number of investors: 7
+243,) Vernacular.ai, Bengaluru, 2016,"Ankit Ratan, Ankur Pandey, Arpit Ratan",Artificial,"10,361,312",Number of funding rounds: 4,11-50,Number of investors: 17
+244,) ShareChat, Bengaluru, 2015,Anuj Rakyan,Internet,"8,923,539",Number of funding rounds: 10,1001-5000,Number of investors: 13
+245,) PhableCare, Bengaluru, 2017,"Ajay Kumar, Jatin Jakharia, Kshitij Nagvekar, Kunal Patil, Lokesh Tiwari, Moiz Arsiwala, Nilesh Dungarwal, Soumil Rao",Health,"26,500,000",Number of funding rounds: 5,11-50,Number of investors: 4
+246,) OZiva, Mumbai, 2016,"Ankit Utreja, Avlesh Singh",Dietary,"25,837,687",Number of funding rounds: 2,51-100,Number of investors: 10
+247,) Testbook.com, Mumbai, 2013,Subhra Chadda,E-Learning,"5,168,764",Number of funding rounds: 5,11-50,Number of investors: 7
+248,) Billdesk, Ahmedabad, 2000,DH,Finance,"70,196,840",Number of funding rounds: 4,51-100,Number of investors: 7
+249,) Flatheads, Bengaluru, 2019,"Aditi Olemann, Ganesh Suryanarayanan, Gopichand Katragadda",E-Commerce,"6,287,653",Number of funding rounds: 2,101-250,Number of investors: 12
+250,) Signzy, Bengaluru, 2015,"Ramanathan RV, Vimal Kumar",Artificial,"67,262,961",Number of funding rounds: 6,11-50,Number of investors: 7
+251,) RAW Pressery, Mumbai, 2014,Shailendra Agarwal,Delivery,"107,798,787",Number of funding rounds: 12,11-50,Number of investors: 4
+252,) WorkIndia, Mumbai, 2015,"Anish Khadiya, Mayank Kukreja",Human,"795,000,000",Number of funding rounds: 3,501-1000,Number of investors: 8
+253,) WebEngage, Mumbai, 2011,"Sivaramakrishnan Narayanan, Yashwanth Madhusudan",Enterprise,"52,800,000",Number of funding rounds: 7,11-50,Number of investors: 5
+254,) Chumbak, Bengaluru, 2009,"Hitesh Dhingra, Rahul Kumar, Sachin Bhatia",E-Commerce,"18,549,687",Number of funding rounds: 6,101-250,Number of investors: 4
+255,) Mu Sigma, Bengaluru, 2004,Ajit ,Analytics,"5,569,257",Number of funding rounds: 7,251-500,Number of investors: 5
+256,) Myelin Foundry, Bengaluru, 2019,Rashmi Daga,Artificial,"60,157,500",Number of funding rounds: 4,51-100,Number of investors: 6
+257,) JUSPAY, Kormangala, 2012,Gautam Virk,FinTech,"166,195,349",Number of funding rounds: 2,501-1000,Number of investors: 5
+258,) DaMENSCH, Bengaluru, 2018,"Ashok Hariharan, Hatim Baheranwala, Vineet Jawa",E-Commerce,"1,784,442",Number of funding rounds: 3,101-250,Number of investors: 2
+259,) InstantPay, Delhi, 2013,Hardika Shah,E-Commerce,"22,685,276",Number of funding rounds: 1,1001-5000,Number of investors: 4
+260,) ITILITE, Bengaluru, 2017,"Keshav Prawasi, Nitin Babel, Sachin Jaiswal, Shishir Modi",Business,"23,500,000",Number of funding rounds: 3,251-500,Number of investors: 10
+261,) Fyle, Bengaluru, 2016,"Abhishek Kumar, Shreyans Daga, Vijay Arisetty",Accounting,"50,000,000",Number of funding rounds: 5,11-50,Number of investors: 23
+262,) Trulymadly.com, Delhi, 2013,"Dhruv Khaitan, Piyush Khaitan",Apps,"56,286,865",Number of funding rounds: 4,1-10,Number of investors: 4
+263,) Quess Corp, Bengaluru, 2007,Vijay Shekhar Sharma,Information,"5,781,631",Number of funding rounds: 1,251-500,Number of investors: 8
+264,) FreshMenu, Bengaluru, 2014,Rahul Anand,Delivery,"40,833,000",Number of funding rounds: 7,251-500,Number of investors: 1
+265,) NODWIN Gaming, Gurgaon, 2012,Sahil Kini,Events,"20,970,000",Number of funding rounds: 1,11-50,Number of investors: 8
+266,) IDfy, Mumbai, 2011,"Matt Chitharanjan, Namrata Asthana",E-Commerce,"129,250,000",Number of funding rounds: 5,251-500,Number of investors: 10
+267,) Kinara Capital, Bengaluru, 2011,Amit Gainda,Finance,"51,000,000",Number of funding rounds: 8,101-250,Number of investors: 14
+268,) Niki, Bengaluru, 2015,Avinash Mudaliar,Android,"3,709,141",Number of funding rounds: 10,501-1000,Number of investors: 4
+269,) MyGate, Bengaluru, 2016,"Achal Mittal, Gautam Adukia",Apps,"12,200,000",Number of funding rounds: 3,101-250,Number of investors: 9
+270,) Neogrowth, Mumbai, 2010,"Neha Kant, Pankaj Vermani, Suman Chowdhury",Business,"108,650,000",Number of funding rounds: 7,11-50,Number of investors: 4
+271,) Paytm Mall, Noida, 2010,"Ashok Kumar, Atul Shinghal, Sanjiv Singhal",E-Commerce,"515,200,000",Number of funding rounds: 3,1001-5000,Number of investors: 16
+272,) Hopscotch, Mumbai, 2011,Bhanu Chopra,E-Commerce,"554,629,632",Number of funding rounds: 5,101-250,Number of investors: 4
+273,) Setu, Bengaluru, 2018,"Ganesh Krishnamoorthy, Milap Shah, Rahul Jain, Rohan Mirchandani, Rohan Mirchandani, Uday Thakker",Financial,"1,179,919",Number of funding rounds: 2,1001-5000,Number of investors: 4
+274,) Blue Tokai Coffee Roasters, Delhi, 2012,"Tarun Sharma, Vikas Lachhwani",Consumer,"15,000,000",Number of funding rounds: 3,101-250,Number of investors: 2
+275,) Avanse Financial Services, Mumbai, 2012,"Nitin Saluja, Raghav Verma",Education,"6,065,079",Number of funding rounds: 3,11-50,Number of investors: 3
+276,) Gaana, Noida, 2011,Dhawal Gusain,Apps,"7,964,767",Number of funding rounds: 3,101-250,Number of investors: 6
